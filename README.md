@@ -1,6 +1,6 @@
-### Olá! Eu sou o Arthur
+### Heyy! I'm Arthur
 
-- 🌱 Estudando HTML, CSS, JS e React
+- 💻📚 Learningh HTML, CSS, JS and React
 
 <div>
   <a href="https://github.com/WrcArthur">
